@@ -56,7 +56,8 @@ run *`ls`* and found user1.txt which contains the 1st flag : **Fl4g{u5er1r34ch3d
 
 
 ## 11. `sudo -l`
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29f5e04b-cdb9-4fd5-b92f-5aad2a5278b0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b31dd93e-f899-4829-9f9d-28f25ad8a237" />
+
 
 - saw the name jerry and the file feedback.sh
 - *`cd project`* *`-cat feedback.sh`*
